@@ -24,7 +24,7 @@ To install the Todo app in your local follow these steps:
 ~ $ nvm install
 ```
 
-4. Clone the seo-admin-ui repo from `https://github.com/gopinathboyanapally/next-todo.git`
+4. Clone the seo-admin-ui repo from `https://github.com/gopinathboyanapally/todo-express.git`
 
 5. On your terminal, cd to the repo.
 
