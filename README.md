@@ -1,6 +1,6 @@
 # Todo Express Api
 
-This is a REST api that does th CRUD operations for the Todo application.
+This is a REST api that does the CRUD operations for the Todo application.
 
 
 ## Installation
